@@ -1,4 +1,4 @@
-const Posto = require("../models/Posto");
+const Posto = require("../models/posto");
 
 const criarPosto = async (req, res) => {
   try {
